@@ -1,17 +1,17 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Martim:**  
+- **a22604275:**  
+- **Primeiro ano video jogos:**  
 
 ---
 
 ## Alterações realizadas
 
-(Descreve brevemente as alterações feitas neste repositório.)
+(Mudei as informações no ficheiro txt.)
 
 ---
 
 ## Observações (opcional)
 
-(Podes deixar aqui algum comentário sobre o processo, dificuldades ou observações relevantes.)
+(Achei complicado.)
